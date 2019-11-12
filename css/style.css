@@ -1,0 +1,330 @@
+
+body{
+	margin: 0;		
+	background-color: #f9f9f9;
+}
+
+#topNav a{
+	text-decoration: none;
+	color: #4f4f4f;
+	line-height: 25px;
+	font-size: 16px;
+
+
+}
+
+#topNav a:hover{
+	color: #fff;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+#topNav{
+	color: #4f4f4f;
+	background-color: #dbdbdb;
+	height: 25px;
+	text-align: right;
+	padding-right: 25px;		
+}
+
+/*-------------------------------------------*/
+#SecondNav{
+	
+	height: 120px;
+	
+	float: left;
+	width: 100%;
+
+}
+
+
+#LogoDiv{
+	margin-top: 10px;
+	width: fit-content;
+	height: fit-content;
+	margin-left: 50px;
+	display: inline-block;
+}
+
+#LogoDiv label{
+	
+	font-size: 60px;
+
+	
+	
+	
+}
+
+#LogoDiv p {
+	line-height: 0px;
+	margin-top:0;
+	font-size: 22px;
+	
+}
+
+.iconsContainer{
+	float: right;
+	margin-top: 25px;
+	margin-bottom: 25px;
+
+
+}
+
+
+
+
+.iconsDiv  {
+
+	text-align: center;
+
+	display: inline-block;
+	margin-right: 25px;
+
+
+}
+
+
+.iconsDiv img {
+
+	width: 50px;
+	height: 50px;
+}
+
+
+
+.iconsDiv a{
+	color: #424242;
+	font-size:17px;
+
+}
+.iconsDiv a:hover {
+	color: #0000ff;
+
+}
+/*-------------------------------*/
+#TimelineContainer{
+
+	clear: both;
+
+}
+#TimelineImage {
+	width: 100%;
+	height: 400px;
+}
+#TimelineContainer p {
+	display: inline-block;
+}
+#DivTimlineText{
+	width: 100%;
+	text-align: center;
+	margin: 7px 0 7px;
+}
+
+#TBold{
+	line-height: 0;	
+	font-size: 25px;
+	font-weight: bold;
+	color: #3c3c40;
+}
+
+#TimlineText{
+	line-height: 0;
+	font-size: 25px;
+	color: #4f4f4f;
+}
+
+
+#TBoldT{
+	line-height: 0;
+	font-size: 20px;
+	font-weight: bold;
+	color: #3c3c40;
+}
+
+#TimlineTextT{
+	line-height: 0;
+	font-size: 20px;
+	color: #4f4f4f;
+}
+/*-----------------------------------*/
+
+
+.DivImage{
+	float: left;
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 2%;
+	width: 22%;
+	text-align: left;
+}
+.DivImage label{
+	font-size: 20px;
+	font-weight: normal;
+	color: #3c3c40;
+
+}
+
+
+.DivImage p{
+	text-align: left;
+	font-size: 15px;
+	color: #4f4f4f;
+}
+
+.UTLimages{
+	width: 100%;
+	height: 170px;
+	margin-top: 15px;
+}
+
+#BirdIconDiv{
+	clear: both;
+	
+	width: 100%;
+	background-color: #dbdbdb;
+	
+	margin-top: 0;
+	height: fit-content;
+	color: #4f4f4f;
+
+
+}
+
+#BirdIconDiv img{
+
+	float: left;	
+	margin-left: 75px;
+	width: 75px;
+	height: 75px;
+	
+
+
+
+}
+#BirdIconDiv label{
+	clear: both;
+	line-height: 90px;
+	margin-left: 50px;
+	display: inline-block;
+	font-size: 20px
+	color: #4f4f4f;
+
+
+}
+/*----------------------------*/
+.DivVfourF{
+	float: left;
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 2%;
+	width: 22%;
+	text-align: left;
+}
+.DivVfourF img{
+	margin-right: 20px;
+	margin-top: 20px;
+	width:80px;
+	height: 80px;
+
+}
+
+.DivVfourF label{
+	font-size: 20px;
+	font-weight: normal;
+	color: #3c3c40;
+
+}
+.DivVfourF p{
+	text-align: left;
+	font-size: 15px;
+	color: #4f4f4f;
+	margin-top: 20px;
+	color: #4f4f52;
+	line-height: 25px;
+
+
+
+}
+.DivVfourF h6{
+	margin: 0;
+	
+	font-size: 12px;
+	color: #878787;
+
+}
+#MarginTOp{
+	clear: both;
+
+	margin-top: 5px;
+
+}
+
+
+.DivVfourF ul{
+	padding-left: 0;
+	list-style: none;
+	color: #878787;
+
+
+}
+
+.DivVfourF a{
+	line-height: 30px;
+	color: #878787;
+
+
+}
+
+.DivVfourF a:hover{
+	
+	color: #fff;
+
+
+}
+
+#Y{
+	float: left;
+	width: 100%;
+	background-color: #c7c7c7	;
+
+	padding-bottom: 40px;
+
+}
+
+footer{
+	clear: both;
+	padding-left: 40px;
+	background-color: #666561;
+	height: 80px;
+	
+
+}
+footer label{
+	line-height: 80px;
+	
+	display: inline-block;
+
+
+}
+footer img{
+	width: 25px;
+	height: 25px;
+	border: 7px solid #fff;
+	margin-left: 6px;
+	line-height: fit-content;
+
+	}footer img:hover{
+		border: 5px dotted #000;
+		
+	}
+	#footerIcon{
+		display: inline-block;
+		float: right;
+		padding: 0;
+		margin:19px 40px ;
+		
+
+	}
